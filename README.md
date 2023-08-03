@@ -20,6 +20,7 @@ Model architecture
 ![confusion matrix](https://github.com/lcysff/Customer-Segmentation/assets/141215896/c8bd4e46-7a29-4fbe-ba63-36b5f005fd22)
 
 Using Gradient Boosting Classifier:
+
 ![classification report using gradient boosting png ](https://github.com/lcysff/Customer-Segmentation/assets/141215896/3d5a5c07-9f10-463f-9234-cf086e0cb657)
 
 ![confusion matrix using gradient boosting](https://github.com/lcysff/Customer-Segmentation/assets/141215896/77849884-7ae6-4fef-81a7-48c347ef330a)
