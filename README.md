@@ -1,17 +1,16 @@
-# Customer-Segmentation
+# Customer-Segmentation using Deep Learning
 
-Customer segmentation is a process to dividing customers into groups which possess common characteristics based on their age, gender, profession as well as interests. By doing so will enable the company will gain insights of customer’s buying pattern or preferences, therefore the company will design a marketing strategy to target the most profitable segments. 
+Customer segmentation is a crucial process for businesses to divide customers into groups based on their common characteristics such as age, gender, profession, and interests. This segmentation enables companies to gain insights into customer behavior and preferences, allowing them to design targeted marketing strategies for each segment.
 
-In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D) based on their customer’s gender, age, profession, spending pattern, and etc. Segmented outreach as well as communication for different segment of customers (A,B,C,D) were conducted and this strategy has work well for the company.
+Project Objective:
+The objective of this project is to develop a deep learning model using TensorFlow that can accurately predict the segment (A, B, C, or D) of new potential customers for an automobile company planning to enter new markets. The model will be trained on existing customer data, where customers have already been classified into four segments (A, B, C, or D) based on various attributes.
 
-Dataset is from: 
-https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation
+The dataset used for this project can be found on Kaggle:[ Customer Segmentation Dataset](https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation). The dataset contains information about customers' age, gender, profession, spending patterns, and other attributes, along with their corresponding segments (A, B, C, or D).
 
 
 Model architecture
 
 ![model](https://github.com/lcysff/Customer-Segmentation/assets/141215896/03f87026-6db0-4cd8-9e7a-3a9bc5dfb0ee)
-
 
 ![classification report](https://github.com/lcysff/Customer-Segmentation/assets/141215896/8d67d7de-2854-4216-abca-bc12e2b5decb)
 
