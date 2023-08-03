@@ -1,13 +1,11 @@
 # Customer-Segmentation
 
-Countplots for categorical column:
- 
-![countplots for categorical column](https://github.com/lcysff/Customer-Segmentation/assets/141215896/1c24903b-f965-432b-a013-de93b443666c)
+Customer segmentation is a process to dividing customers into groups which possess common characteristics based on their age, gender, profession as well as interests. By doing so will enable the company will gain insights of customer’s buying pattern or preferences, therefore the company will design a marketing strategy to target the most profitable segments. 
 
+In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D) based on their customer’s gender, age, profession, spending pattern, and etc. Segmented outreach as well as communication for different segment of customers (A,B,C,D) were conducted and this strategy has work well for the company.
 
-Histogram for numerical column:
-
-![histogram for numerical column](https://github.com/lcysff/Customer-Segmentation/assets/141215896/b9bc1a1f-9798-4c3e-885b-8f2e8a5e27f1)
+Dataset is from: 
+https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation
 
 
 Model architecture
