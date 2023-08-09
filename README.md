@@ -10,17 +10,28 @@ The dataset used for this project can be found on Kaggle:[ Customer Segmentation
 
 ## Model architecture
 
-![model](https://github.com/lcysff/Customer-Segmentation/assets/141215896/03f87026-6db0-4cd8-9e7a-3a9bc5dfb0ee)
+Model: 
+![model](https://github.com/nor-azilah/Customer-Segmentation/assets/141215896/60e87cd5-78d0-488b-91bb-fab2013b9fe8)
 
-![classification report](https://github.com/lcysff/Customer-Segmentation/assets/141215896/8d67d7de-2854-4216-abca-bc12e2b5decb)
 
-![confusion matrix](https://github.com/lcysff/Customer-Segmentation/assets/141215896/c8bd4e46-7a29-4fbe-ba63-36b5f005fd22)
+Classification Report:
+![classification report](https://github.com/nor-azilah/Customer-Segmentation/assets/141215896/4ceff4d2-1cd0-4448-8108-4a1f85d25744)
+
+
+Confusion Matrix:
+![confusion matrix](https://github.com/nor-azilah/Customer-Segmentation/assets/141215896/4882683b-ebd4-4f6a-aba9-bdcc9daf5d14)
+
+
 
 ## - Using Gradient Boosting Classifier:
 
-![classification report using gradient boosting png ](https://github.com/lcysff/Customer-Segmentation/assets/141215896/3d5a5c07-9f10-463f-9234-cf086e0cb657)
+Classification Report:
+![classification report using gradient boosting png ](https://github.com/nor-azilah/Customer-Segmentation/assets/141215896/7c9200df-6e32-4dbc-a1bf-b3860e10e0ac)
 
-![confusion matrix using gradient boosting](https://github.com/lcysff/Customer-Segmentation/assets/141215896/77849884-7ae6-4fef-81a7-48c347ef330a)
+
+Confusion Matrix:
+![confusion matrix using gradient boosting](https://github.com/nor-azilah/Customer-Segmentation/assets/141215896/29ead7fa-dc62-45be-970a-74504bdee5fe)
+
 
 
 ## Requirements
